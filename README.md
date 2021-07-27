@@ -1,6 +1,12 @@
 SHMIG
 =====
 
+### WARNING
+
+This is the archived original version of shmig that is stored for the reference
+purposes. Updated version resides at https://github.com/mbucc/shmig.
+
+
 A database migration tool written in BASH consisting of just one file - `shmig`.
 
 Why?
